@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Johanna, @jo-latti, a Finnish person currently living in Paris 
+- 👋 Hi, I’m Johanna, @jo-latti, a Finnish person living in Paris 
 - 👀 I’m interested in how to use programming skills in scientific research
 - 🌱 I’m currently learning basics in coding
 - 💞️ I’m (in the future) looking to collaborate on data analysis with Python or R 
